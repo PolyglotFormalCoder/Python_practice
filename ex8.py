@@ -9,3 +9,6 @@ print(formatter.format(\
  "Maybe a poem", \
  "Or a song about fear"\
  ))
+x = f'fdfddfd '
+y = "{}".format("blah")
+print(x+y)
