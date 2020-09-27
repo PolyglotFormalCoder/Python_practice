@@ -11,6 +11,6 @@ print(f"I also said: 3333333 {c} '{y}'")
 hilarious = False
 joke_evaluation = "Isn't that joke so funny?! {}"
 print(joke_evaluation.format(hilarious))
-w = "This is the left side of..."
+w = "This is the left side of..." + "bla "
 e = "a string with a right side."
 print(w + e)
